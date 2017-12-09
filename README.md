@@ -181,7 +181,7 @@ be 'me')
 
 As you may discover, Brunch has a [strong leaning
 towards](https://github.com/brunch/brunch/issues/158) the
-[Mocha](http://visionmedia.github.com/mocha/) testing framework.
+[Mocha](http://mochajs.org/) testing framework.
 
 ## Docco Generation
 ---------------------------------------------------------------------------
